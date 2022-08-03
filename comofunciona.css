@@ -1,0 +1,530 @@
+/*---------------------COMO FUNCIONA-----------------*/
+.dropdown-item{
+    color: rgb(20, 55, 253);
+}
+
+.fondo{
+    background-color: rgba(56, 92, 138, 0.527);
+    padding: 15px;
+}
+
+/*TITULO*/
+.col-12{
+    text-align: center;
+    color: rgb(245, 1, 1);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+/*CONTENIDO*/
+.col-5{
+    border:dashed;
+    background-color: aliceblue;
+    border-radius: 5%;
+    
+}
+/* JUSTIFICACION DE PARRAFOS*/
+.texto-1{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.texto-2{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5{
+    color: darkcyan;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*LINEAS SEPARADORAS*/
+hr.separadores {
+	background-color:rgb(219, 219, 219);
+	border-top: 10px dotted #1b02ff;
+}
+
+/*TITULO*/
+
+.titulo-inic{
+    color: #ff0202;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 251, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*SUBTITULO*/
+h3{
+    text-align: center;
+    color: rgb(13, 245, 110);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+/*FORMULARIO------------------------------------------------*/
+.titulo{
+    text-align: center;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    
+}
+/*FONDO 2*/
+
+.fondo2{
+background-color:beige;
+
+    
+}
+.imagen-for{
+    width: 450px;
+    margin: auto;
+    padding: 10px;
+}
+.formulario{
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(231, 175, 21);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+
+/*BOTON*/
+.button{
+    width: 100%;
+    margin-top: 32px;
+    padding: 8px 16px;
+    border-color: #ff0202;
+    background-color: rgba(218, 50, 39, 0.925);
+    color:aliceblue
+}
+
+.col{
+    
+    border-radius: 7px;
+    margin: 8px;
+    padding: 1px 0px;
+    border:dotted;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: rgba(19, 4, 236, 0.925);
+}
+
+/*MAPA*/
+.contenedor{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    
+}
+
+/*PIE DE PAGINA------------------------------------------------------------------------------------------------------------*/
+.ajustar-izq{
+    text-align: center;
+    text-align: justify;
+}
+.footer{
+    background-color: rgba(103, 128, 160, 0.527);
+    text-align: center;
+    margin: 5px;
+}
+p{
+    text-align: center;
+}
+
+
+
+/*-----------------------------------------PROFESORES-----------------------------*/
+.parrafo{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*
+.container-fluid6{
+    background-color: #45cce4;
+}*/
+.card-body{
+    border: outset;
+}
+
+.derech-izquie{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: #ff0202;
+    
+}
+.titulo-docentes{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blue;
+    font-style: italic;
+}
+.ajustar-table{
+    margin: 20px;
+    padding: 40px;
+}
+
+
+
+/*----------------------------------------CONTACTANOS------------------------------*/
+
+.fondo-fo{
+    background-color: rgb(73, 137, 205);
+    padding: 0px;
+}
+.contactanos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    
+}
+
+.img-for{
+margin: 50px;
+padding: 20px;
+box-shadow: 7px 13px 37px #000000;
+height: 70%;
+
+
+}
+.tit-form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+.form-contact{
+    width: 500px;
+    margin: auto;
+    padding: 40px;
+    background-color: #A6F5EA;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: justify;
+    
+    
+}
+.pre-frecuent{
+    color: #ff2802;
+}
+/*
+.accordion-item{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+    text-align: left;
+    outline: none;
+    transition: 0.4s;
+    padding: 12px 0 12px 0;
+}
+*/
+/*----PREGUNTAS FRECUENTES------*/
+
+.justificar-parrafos{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo-pf{
+    font-family:Arial, Helvetica, sans-serif
+
+}
+.reducir{
+    margin: 50px;
+    padding: 30px;
+}
+/*PIE DE PAGINA*/
+.img-alinear{
+    padding: 5px;
+    margin-left: 65px;
+
+}
+
+#floatingTextarea2{
+    height: 100px;
+
+}
+/*--------------------------------------------INGLÉS PARA NIÑOS.................*/
+
+
+
+.anuncio{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: blue;
+
+}
+
+#que-ofrecemos{
+    color: rgb(255, 8, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.img-centrar{
+    margin-left:30%;
+}
+
+.negrita{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+}
+.justificarr{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.todas-ventajas{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: #ff0202;
+
+}
+/*todo el card*/
+.al-centro{
+    margin-left: 250px;
+}
+.tipo-letra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.card-body-1{
+    margin: 20px;
+    
+}
+
+
+.sabiasquetu-hijo{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: blue;
+}
+.estudios{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+/*CENTRADO DE TABLA, TEMA "NUMEROSAS VENTAJAS"*/
+.centrar-tabla{
+    margin-left: 90px;
+    padding: 50px;
+}
+.sub-titulos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: blue;
+}
+/*Dale a tu hijo el futuro...*/
+.info-fluid{
+    width: 550px;
+    height: 280px;
+    margin-left: 30%;
+    border: groove;
+    border-radius: 8px;
+    background-color: rgba(219, 243, 191, 0.986);
+    text-shadow: 15px;
+}
+/*CODIGO DE "INSCRIBETE HOY"*/
+.link-inscrib{
+    text-align: center;
+    margin-left: 36%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    font-size: 30px;
+}
+/*------------------------------------------------------*/
+.tamanio-titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: blue;
+    padding: 20px;
+}
+.parraf{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 20px;
+}
+.efect-public{
+    color: #ff0202;
+    font-size: 20px;
+}
+.inscribete{
+    width: 35%;
+    margin-left: 30%;
+    border-radius: 10px;
+    box-shadow: 7px 13px 37px #000000;
+
+}
+.fondo-color{
+    background-color: rgb(126, 144, 245);
+    margin: 20px;
+    padding: 20px;
+    
+    
+}
+
+
+/*REGISTRATE*/
+.title{
+    color:#000000;
+}
+
+.imagen-regist{
+    width: 550px;
+    margin: 2px;
+    padding: 5px;
+}
+
+.titulo-regist{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    
+}
+.formulario-regist{
+    width: 400px;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(183, 20, 6);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.button-regist{
+    width: 100%;
+    margin-top: 32px;
+    padding: 8px 16px;
+    border-color: #dfc2c2;
+    background-color: rgba(224, 200, 196, 0.925);
+    color:rgb(13, 23, 27)
+}
+
+
+/*.......................................ingles para adultos....................................*/
+
+.subtitulo-nos-adaptamos{
+    padding:15px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(2, 84, 90);
+    font-weight: bold;
+}
+
+
+.subtitulo-tres-modalidades{
+    text-align:left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: rgb(2, 72, 77);
+    font-weight: bold;
+}
+/*
+.titulo-inglés-para-adultos{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blue;
+    font-style: italic;
+}
+
+
+.ingles-adultos{
+text-align: right; 
+}
+*/
+
+.color-fondo{
+    background-color: rgb(230, 229, 244);
+}
+
+.color-fondo0{
+    background-color: rgb(232, 236, 253);
+}
+
+.fondo-ingles-adultos{
+    background-color: rgba(57, 162, 201, 0.925);
+    padding: 15px;
+}
+
+.titulo-ingles-adultos{
+    text-align: center;
+    color: rgb(231, 4, 4);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.tres-pilares{
+    text-align: center;
+    color: rgb(231, 242, 245);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulo-metodo-aprender-ingles{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif,Verdana;
+    font-size: 30px;
+    color: rgb(2, 2, 83);
+    font-weight: bold;
+}
+
+.titulo-opciones-clases-ingles{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif,Verdana;
+    font-size: 35px;
+    color: rgb(1, 49, 122);
+    font-weight: bold;
+}
+/*
+.col-4{
+    border:none;
+    background-color: #7faafa;
+    border-radius: 5%;
+    width: 40%;
+}
+*/
+.col-7{
+    margin-left: auto;
+}
+
+.video-ingles-online{
+    text-align: center ;
+    width: 70%;
+    height: 40%;
+    margin-right: center;
+    align-items: center;
+    margin-left: 135px;
+}
+
+.clases-ingles-vivo{
+    margin: 5px;
+    padding: 10px;
+}
+
+.fondo-meta-hablar-ingles{
+    background-color: rgb(160, 212, 247);
+    margin: 20px;
+    padding: 20px;
+    
+    
+}
+
+.fondo-completa-formulario{
+    width: 550px;
+    height: 280px;
+    margin-left: 30%;
+    border: groove;
+    border-radius: 8px;
+    background-color: rgba(231, 224, 247, 0.986);
+    text-shadow: 15px;
+}
+
+.titulo-meta-hablar-ingles{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(19, 154, 172);
+    padding: 20px;
+}

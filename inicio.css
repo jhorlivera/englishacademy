@@ -1,0 +1,145 @@
+
+.experiencia_alumnos{
+    margin-left: 25%;
+}
+.dropdown-item{
+    color: rgb(20, 55, 253);
+}
+
+.btn.btn-primary{
+    background-color: rgb(5, 163, 255);
+}
+
+/*LINEAS SEPARADORAS*/
+hr.separadores {
+	background-color: rgb(255, 255, 255);
+	border-top: 10px dotted blue;
+    
+}
+
+.col2{
+    text-align: center;
+}
+
+/*LINEAS SEPARADORAS*/
+
+
+/*Sección de Experiencias*/
+
+.carousel-imagen-texto{
+    display: flex;
+    border: 2px solid teal;
+    padding: 20px;
+    width: 85%;
+    margin: auto;
+    border-radius: 10px;
+}
+.carousel-imagen-texto .imagen{
+margin-top: 30px;
+}
+
+.carousel-imagen-texto .imagen img{
+border-top-left-radius: 50% 50%;
+border-top-right-radius: 50% 50%;
+border-bottom-right-radius: 50% 50%;
+border-bottom-left-radius: 50% 50%;
+border: 2px solid rgb(36, 34, 34);
+}
+/*
+@media (max-width: 760px) { 
+    .carousel-imagen-texto .imagen img{ 
+        max-width: 100%;
+    }
+    
+}*/
+
+.texto-pais b{
+color: green;
+}
+
+.texto-pais .texto{
+    margin-top: 30px!important;
+}
+
+.pais{
+    display: flex;
+
+}
+.pais img{
+width: 40px;
+margin: 0px 0px 20px 70px;
+}
+
+.pais h3{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.contenedor{
+min-width: 600px;
+overflow: hidden;
+padding: 0px;
+margin: auto;
+}
+
+center{
+    margin-top: 30px;
+}
+
+.btn{
+padding: 20px 30px;
+}
+
+.btn:hover{
+    background-color: rgb(3, 104, 163);
+}
+
+/* al estudiar */
+
+.contenedor .estudiar{
+    margin: 80px 0px 20px 0px;
+    
+}
+
+.col i{
+    margin-top: 30px;
+}
+
+/* iconos al estudiar */
+
+
+.col .fa{
+    font-size: 40px;
+    color: rgb(15, 139, 167);
+}
+.fa .fa-clock-o{
+    font-size: 10px;
+}
+
+/*mapa*/
+.contenedor{
+    text-align: center;
+    
+}
+
+.ajustar-izq{
+    text-align: center;
+    text-align: justify;
+}
+.footer{
+    background-color: rgba(103, 128, 160, 0.527);
+    text-align: center;
+    margin: 5px;
+}
+p{
+    text-align: center;
+}
+/*
+li .bibipersoncircle{
+    background-color: #ff0202;
+    width: 200px;
+    height: 100px;
+}*/
+
+
